@@ -1,0 +1,51 @@
+{
+  "name": "anzograph-client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@arcgis/webpack-plugin": "^4.16.1",
+    "@esri/react-arcgis": "^5.1.0",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "esri": "0.0.1-security",
+    "esri-loader": "^2.15.0",
+    "react": "^16.13.1",
+    "react-autocomplete": "^1.8.1",
+    "react-dom": "^16.13.1",
+    "react-google-charts": "^2.0.29",
+    "react-scripts": "^3.4.4",
+    "react-select": "^3.1.0",
+    "react-table-6": "^6.11.0",
+    "react-xml-parser": "^1.1.6",
+    "redux": "^4.0.5",
+    "xml-js": "^1.6.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@material-ui/core": "^4.11.0",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0"
+  }
+}
