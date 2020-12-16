@@ -15,6 +15,6 @@
 + File: `/GraphBrowser/ViewGraphBrowser.inpynb`
 
 
-##### NOTE: The file `dash_reusable_components.py` present in this directory and inside `GraphBrowser` is taken from the plotly/dash-cytoscape repo and uses an MIT license.  [Repo Link](https://github.com/plotly/dash-cytoscape/)
+##### NOTE: The file `dash_reusable_components.py` present in this directory and inside `GraphBrowser` is taken from the plotly/dash-cytoscape repo and uses an MIT license.  [File link in original repo](https://github.com/plotly/dash-cytoscape/blob/master/demos/dash_reusable_components.py)
  
 ###### Developed by Cambridge Semantics Inc.     
