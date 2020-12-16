@@ -13,7 +13,7 @@ import re
 import dash_cytoscape as cyto
 import dash_html_components as html
 import dash_core_components as dcc
-from demos import dash_reusable_components as drc
+import dash_reusable_components as drc
 
 
 # ------------------------------------------------------
