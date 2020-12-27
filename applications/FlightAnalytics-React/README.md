@@ -20,7 +20,7 @@
 #### All paths between two airports in USA:
 ![](https://github.com/swapnilblues/csi-anzograph-client-examples/blob/main/ScreenShots/map-all-paths-direct-route-available.png)
 
-#### Shortest path between two airports in the USA when direct route is available:
+#### All path between two airports in the USA when direct route is available:
 ![](https://github.com/swapnilblues/csi-anzograph-client-examples/blob/main/ScreenShots/map-all-paths-direct-route-available.png)
 
 #### Shortest path between two airports in the USA when direct route is not available:
