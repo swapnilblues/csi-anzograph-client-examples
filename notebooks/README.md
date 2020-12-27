@@ -14,6 +14,13 @@
 ### Graph Browser Notebook
 + File: `/GraphBrowser/ViewGraphBrowser.inpynb`
 
+### Screenshots:
+
+#### Covid data of every US state in a choropleth map with time-slider:
+![](https://github.com/swapnilblues/csi-anzograph-client-examples/blob/main/ScreenShots/Choropleth.png)
+
+#### Graph Browser:
+![](https://github.com/swapnilblues/csi-anzograph-client-examples/blob/main/ScreenShots/graph-browser.png)
 
 ##### NOTE: The file `dash_reusable_components.py` present in this directory and inside `GraphBrowser` is taken from the plotly/dash-cytoscape repo and uses an MIT license.  [File link in original repo](https://github.com/plotly/dash-cytoscape/blob/master/demos/dash_reusable_components.py)
  
